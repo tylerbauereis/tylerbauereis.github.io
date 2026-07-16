@@ -2,7 +2,7 @@
 layout: page
 ---
 
-I'm an industrial engineer working on the power grid; the largest and most consequential industrial system ever built.
+**I'm an industrial engineer working on the power grid (the largest and most consequential industrial system ever built).**
 
 Every discipline in the IE/OR toolbox has a grid problem waiting for it:
 - Reliability engineering asks how much each power plant, battery, or solar farm should count toward keeping the lights on.
