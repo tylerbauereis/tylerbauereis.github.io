@@ -1,4 +1,10 @@
+title: Tyler Bauereis
 remote_theme: jekyll/minima
 
 minima:
   skin: classic
+  nav_pages:
+    - projects.md
+    - cv.md
+    - code-data.md
+    - about.md
