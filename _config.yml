@@ -6,5 +6,4 @@ minima:
   nav_pages:
     - projects.md
     - cv.md
-    - code-data.md
     - about.md
