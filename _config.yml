@@ -1,9 +1,17 @@
 title: Tyler Bauereis
 remote_theme: jekyll/minima
 
+author:
+  name: Tyler Bauereis
+  email: "bauereist@gmail.com"
+
 minima:
   skin: classic
   nav_pages:
     - projects.md
     - cv.md
     - about.md
+  social_links:
+  - title: LinkedIn
+    icon: linkedin
+    url: "https://www.linkedin.com/in/tylerbauereis/"
